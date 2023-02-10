@@ -1,0 +1,40 @@
+.footer {
+    color: var(--TEXT_COLOR_L2);
+    position: relative;
+}
+*
+{
+    box-sizing: border-box;
+}
+body{
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Roboto","HelveticaNeue-Light",sans-serif;
+    font-size: 1.125em;
+}
+.ftlist{
+    display: inline-block;
+    margin: 5px;
+}
+.flink{
+    text-decoration: none;
+    color: white;
+}
+.ficons{
+    display: inline-block;
+    filter: invert(100%);
+}
+.dropdown-contanier{
+    border-bottom: solid 
+    
+    border-bottom-width:2px ;
+    border-bottom-style:1px ;
+    border-bottom-color: 2px;
+}
+
+
+
+
+
+
+
